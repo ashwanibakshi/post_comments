@@ -1,0 +1,8 @@
+{
+    "name": "post-comment",
+    "version": "0.1.0",
+    "description": "apiDoc post-comment example",
+    "title": "Custom apiDoc post-comment",
+    "url" : "http://127.0.0.1:3000",
+    "sampleUrl":"null"
+  }
